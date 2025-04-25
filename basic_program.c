@@ -7,7 +7,7 @@ int factorial(int n) {
     else
         return n * factorial(n - 1);
 }
-
+nfdjnffdmkfdmfdf
 int main() {
     int num;
     printf("Enter a number: ");
